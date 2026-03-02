@@ -1,0 +1,1 @@
+http://localhost:63342/zakrivayuschiy-teg-ad/index.html?_ijt=ebgg0a8fbqm9g3o3cju3poeuhi&_ij_reload=RELOAD_ON_SAVE
